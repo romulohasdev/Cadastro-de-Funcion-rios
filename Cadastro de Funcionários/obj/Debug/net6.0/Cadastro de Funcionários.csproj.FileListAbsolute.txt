@@ -1,0 +1,14 @@
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\bin\Debug\net6.0\Cadastro de Funcionários.exe
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\bin\Debug\net6.0\Cadastro de Funcionários.deps.json
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\bin\Debug\net6.0\Cadastro de Funcionários.runtimeconfig.json
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\bin\Debug\net6.0\Cadastro de Funcionários.dll
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\bin\Debug\net6.0\Cadastro de Funcionários.pdb
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\Cadastro de Funcionários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\Cadastro de Funcionários.AssemblyInfoInputs.cache
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\Cadastro de Funcionários.AssemblyInfo.cs
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\Cadastro de Funcionários.csproj.CoreCompileInputs.cache
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\Cadastro de Funcionários.dll
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\refint\Cadastro de Funcionários.dll
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\Cadastro de Funcionários.pdb
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\Cadastro de Funcionários.genruntimeconfig.cache
+C:\Users\Usuário-\source\repos\Cadastro de Funcionários\Cadastro de Funcionários\obj\Debug\net6.0\ref\Cadastro de Funcionários.dll
